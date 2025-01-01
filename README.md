@@ -1,5 +1,6 @@
 # Practice-git
 Learning the git and github 
-<p>
+<br>
+
   authot is the ajay kumar 
-</p>
+
